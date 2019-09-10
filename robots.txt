@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietohsiul.chrisg.rocks/sitemap.xml
